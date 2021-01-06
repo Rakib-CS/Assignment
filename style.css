@@ -20,7 +20,7 @@ font-size: 80px;
 }
 h2{
     font-size: 40px;
-    color:#363958;
+    color:;
 }
 
 .orange-highlight{
@@ -36,7 +36,7 @@ h2{
     width: 100%;
 }
 .top-bannar{
-    background-image:url("images/top-banner.png") ;
+    background-image:url("images/image13.png") ;
     background-repeat: no-repeat;
 }
 section{
@@ -55,7 +55,7 @@ font-weight:700 ;
 
 
 .Dream-area{
-    
+ 
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -73,8 +73,9 @@ width: 25%;
 
 }
 .Experience{
-  
-    background: rgb(222, 222, 235);
+
+    background-image: url("images/image12.png");
+    
     background-repeat: no-repeat;
    background-position: left;
    text-align: center;
@@ -101,8 +102,9 @@ border-image-slice: 1;
 }
 #foo
 {
+
     text-align: center;
-    color: gray;
+    color:#363958;
     
 }
 
@@ -112,11 +114,13 @@ h3{
 }
 .work{
     background-image: url("images/Background.png");
+    
+   
     background-repeat: no-repeat;
    background-position:center;
    background-size: 800px 200px;
    text-align: left;
-
+ 
 
 }
 
@@ -130,4 +134,9 @@ h3{
     color:#a7a7a7;
     font-style: normal;
     font-style: normal;
+}
+#last{
+    text-align: center;
+    font-size: 25px;
+    color:gray ;
 }
