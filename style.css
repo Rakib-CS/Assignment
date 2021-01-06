@@ -1,0 +1,133 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+.vertical-menu{
+    float:right;
+    padding: 10px;
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    color: grey;
+}
+
+
+h1{
+font-size: 80px;
+
+
+}
+h2{
+    font-size: 40px;
+    color:#363958;
+}
+
+.orange-highlight{
+    color: orange;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-bannar{
+    background-image:url("images/top-banner.png") ;
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+padding-bottom: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #fa7261;
+  
+padding: 10px 25px;
+border-radius: 5px;
+color: white;
+font-weight:700 ;
+}
+
+
+.Dream-area{
+    
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single{
+    box-shadow: 5px 5px 5px gainsboro ;
+    border-radius: 10px;
+    height: 80%;
+    float: left;
+    
+padding: 10px;
+width: 25%;
+    text-align: left;
+    background-color: white;
+    
+
+}
+.Experience{
+  
+    background: rgb(222, 222, 235);
+    background-repeat: no-repeat;
+   background-position: left;
+   text-align: center;
+background-color: ghostwhite;
+   
+}
+#full-stack
+{
+
+border-image: linear-gradient(180deg, lightsalmon,tomato);
+border-image-slice: 1;
+
+}
+#baby{
+
+    border-image: linear-gradient(180deg, blue,cyan);
+    border-image-slice: 1;
+}
+
+#navy{
+
+    border-image: linear-gradient(180deg, blue,cyan);
+    border-image-slice: 1;
+}
+#foo
+{
+    text-align: center;
+    color: gray;
+    
+}
+
+h3{
+    font-size: 30px;
+    color:#73758b;
+}
+.work{
+    background-image: url("images/Background.png");
+    background-repeat: no-repeat;
+   background-position:center;
+   background-size: 800px 200px;
+   text-align: left;
+
+
+}
+
+    
+#project{
+    text-align: center;
+    font-size: 40px;
+    margin: 20px;
+}
+#lorem{
+    color:#a7a7a7;
+    font-style: normal;
+    font-style: normal;
+}
